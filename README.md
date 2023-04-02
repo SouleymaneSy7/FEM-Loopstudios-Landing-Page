@@ -50,8 +50,8 @@ This is the Screenshot of my work!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/loopstudios-responsive-landing-page-made-with-html-sass-vite-lRPo-pi_El)
+- Live Site URL: [live site URL here](https://fem-loopstudios-landing-page-iota.vercel.app/)
 
 ## My process
 
